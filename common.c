@@ -176,7 +176,7 @@ static evset_t l2cache_evset[] = {
 static evset_t l3cache_evset[] = {
   { "PAPI_LD_INS", -1 },
   { "PAPI_SR_INS", -1 },
-  { "PAPI_L3_DCM", -1 },
+  { "PAPI_L3_TCM", -1 },
   { NULL, -1 },
 };
 
